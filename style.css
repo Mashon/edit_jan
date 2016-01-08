@@ -1,0 +1,107 @@
+/*<-----------DEFAULT----------->*/
+
+
+.one {
+  display:none;
+}
+
+p {
+border: 1px solid gray;
+font-size: 1em;
+margin: 0;
+}
+
+/*#paragraph-two {
+  border: 2px solid red;
+  width: 18em;
+  height: 18em;
+  background-color: lightgray;
+  margin: 1em auto;
+  padding: 5em;
+
+}
+
+#paragraph-three {
+  border: 2px solid green;
+  width: 18em;
+  height: 18em;
+  background-color: lightblue;
+  margin: 1em auto;
+  padding: 5em;
+}*/
+
+#paragraph-two {
+  display: none;
+  box-sizing: border-box;
+  border: 2px dashed blue;
+  width: 600px;
+  padding: 1em;
+}
+
+
+#paragraph-three {
+  display: none;
+  border: 2px dashed green;
+  width: 600px;
+  padding: 1em;
+}
+
+
+
+
+.five {
+  width: 10em;
+  background: #31D3FD;
+  float: left;
+  margin: 1em;
+  clear: left;
+  /*height: 30em;
+  overflow: auto;
+  zoom: 1; /* IE6 */
+}
+
+.six {
+  width: 10em;
+  background: #31D3FD;
+  float: right;
+  margin: 1em;
+
+}
+
+.nine {
+  clear:both;
+  background: #1a86a1;
+  padding: 2em;
+  margin-bottom:3em;
+}
+
+li {
+  display:inline;
+}
+
+ul {
+  padding: 0;
+}
+
+
+
+footer {
+  background-color: white;
+  width: 100%;
+  position:fixed;
+  bottom: 0;
+}
+
+#paragraph-four {
+  background: #1a86a1;
+  padding: 2em;
+  /*position:relative;*/
+  top: -1em;
+}
+
+#floater {
+  background-color: white;
+  position:absolute;
+  top:1em;
+  right:1em;
+}
