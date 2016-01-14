@@ -1,7 +1,8 @@
 Clone the starter folder *css_positioning* from Github.
 
+#CSS Layouts & Positioning
 
-#CSS Length Units
+##CSS Length Units
 
 Since we’re talking about laying out elements onto a page, it’s important to clarify what length values CSS accepts.  
 
